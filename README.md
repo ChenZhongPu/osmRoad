@@ -1,4 +1,5 @@
 #Summary
+
 Process OSM data with python 3. This project is mainly motivated by [openstreetmap](https://github.com/johnyf/openstreetmap).
 
 # Dependencies
@@ -7,7 +8,7 @@ Process OSM data with python 3. This project is mainly motivated by [openstreetm
 - [networkx](https://networkx.github.io/)
 
 # Install
-You can install `osmRoad` via `pip`.
+You can install [osmRoad](https://pypi.org/project/osmRoad/) via `pip`.
 
 ```shell
 pip install osmRoad

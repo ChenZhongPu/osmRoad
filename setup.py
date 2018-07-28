@@ -11,7 +11,7 @@ setuptools.setup(
     description="Parse OSM Data",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/ChenZhongPu/",
+    url="https://github.com/ChenZhongPu/osmRoad",
     packages=setuptools.find_packages(),
     classifiers=(
         "Programming Language :: Python :: 3",
