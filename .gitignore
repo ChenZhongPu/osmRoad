@@ -1,6 +1,6 @@
+__pycache__/
 /build/**
 /dist/**
 /venv/**
 /osmRoad.egg-info/**
 /.idea/**
-__pycache__/
