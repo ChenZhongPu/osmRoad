@@ -3,4 +3,4 @@
 /venv/**
 /osmRoad.egg-info/**
 /.idea/**
-/osm/__pycache__/**
+__pycache__/
