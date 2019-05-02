@@ -71,7 +71,7 @@ def parse_node(root):
 
 def parse_way(root):
     # refer to https://wiki.openstreetmap.org/wiki/Key:highway
-    road_vals = ['montorway', 'motorway_link', 'trunk', 'trunk_link',
+    road_vals = ['motorway', 'motorway_link', 'trunk', 'trunk_link',
                  'primary', 'primary_link', 'secondary', 'secondary_link',
                  'tertiary', 'road', 'residential', 'living_street',
                  'service', 'services', 'motorway_junction']
