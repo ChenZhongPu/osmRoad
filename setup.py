@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="osmRoad",
-    version="0.1",
+    version="0.2",
     author="Zhongpu Chen",
     author_email="chenloveit@gmail.com",
     description="Parse OSM Data",
